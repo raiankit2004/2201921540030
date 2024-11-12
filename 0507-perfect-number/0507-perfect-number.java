@@ -1,13 +1,10 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        int count=0;
+        int sum=0;
         for(int i=1;i<=num/2;i++){
             if(num%i==0)
-            count=count+i;
+        sum=sum+i;
         }
-        if(count==num){
-            return true;
-        }
-        return false;
+        return sum==num;
     }
 }
