@@ -1,13 +1,18 @@
 import java.lang.Math;
 class Solution {
     public int reverse(int x) {
-        int rev=0;
-       while(x!=0){
-           int r=x%10;
-           x=x/10;
-           if(rev>0 && rev >(Integer.MAX_VALUE-r)/10 || rev<0 && rev < (Integer.MIN_VALUE-r)/10) return 0;
-           rev=rev*10+r;
-       }
-        return rev;
+        long reverse=0;
+        int temp;
+  while(x != 0){
+            temp = x%10;
+            reverse = reverse *10 + temp;
+            x = x/10;
+
+            if(reverse > Integer.MAX_VALUE || reverse <Integer.MIN_VALUE){
+                return 0;
+            }
+        }
+        return (int)reverse;
     }
+    
 }
