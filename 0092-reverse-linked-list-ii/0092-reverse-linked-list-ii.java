@@ -22,13 +22,13 @@ class Solution {
         ListNode start = curr;
         prev=null;
         while(curr!=null && i!=right+1){
-            ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = temp;
+            ListNode temp = start.next;
+            start.next = prev;
+            prev = start;
+            start = temp;
             i++;
         }  
-        start.next=curr;
+        curr.next=start;
         if(pts!=null){
             pts.next=prev;
         }
