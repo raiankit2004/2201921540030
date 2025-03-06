@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raiankit2004/2201921540030/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/raiankit2004/2201921540030/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/raiankit2004/2201921540030/tree/master/0142-linked-list-cycle-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raiankit2004/2201921540030/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/raiankit2004/2201921540030/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/raiankit2004/2201921540030/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/raiankit2004/2201921540030/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/raiankit2004/2201921540030/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/0237-delete-node-in-a-linked-list) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raiankit2004/2201921540030/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/raiankit2004/2201921540030/tree/master/0142-linked-list-cycle-ii) |
 ## Simulation
 |  |
 | ------- |
