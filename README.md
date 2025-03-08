@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raiankit2004/2201921540030/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raiankit2004/2201921540030/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/raiankit2004/2201921540030/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raiankit2004/2201921540030/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/raiankit2004/2201921540030/tree/master/0141-linked-list-cycle) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/raiankit2004/2201921540030/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
