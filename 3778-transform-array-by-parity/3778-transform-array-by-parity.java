@@ -6,13 +6,8 @@ class Solution {
         int k=0;
         int l=0;
         for(int i=0;i<n;i++){
-            if(nums[i]%2==0){
-                nums[i]=0;
+            nums[i]=(nums[i]%2==0)?0:1;
             }
-            else{
-                nums[i]=1;
-            }
-        }
         Arrays.sort(nums);
         return nums;
     }
