@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2551-apply-operations-to-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/raiankit2004/2201921540030/tree/master/3227-find-missing-and-repeated-values) |
 | [3778-transform-array-by-parity](https://github.com/raiankit2004/2201921540030/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
