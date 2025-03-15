@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raiankit2004/2201921540030/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/raiankit2004/2201921540030/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raiankit2004/2201921540030/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raiankit2004/2201921540030/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/raiankit2004/2201921540030/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/raiankit2004/2201921540030/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/raiankit2004/2201921540030/tree/master/3643-zero-array-transformation-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/raiankit2004/2201921540030/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
