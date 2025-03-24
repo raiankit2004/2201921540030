@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/raiankit2004/2201921540030/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/raiankit2004/2201921540030/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/raiankit2004/2201921540030/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/raiankit2004/2201921540030/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raiankit2004/2201921540030/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/raiankit2004/2201921540030/tree/master/3643-zero-array-transformation-ii) |
 | [3778-transform-array-by-parity](https://github.com/raiankit2004/2201921540030/tree/master/3778-transform-array-by-parity) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/raiankit2004/2201921540030/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
+| [3430-count-days-without-meetings](https://github.com/raiankit2004/2201921540030/tree/master/3430-count-days-without-meetings) |
 | [3778-transform-array-by-parity](https://github.com/raiankit2004/2201921540030/tree/master/3778-transform-array-by-parity) |
 ## Linked List
 |  |
