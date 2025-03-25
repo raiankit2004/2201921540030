@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/raiankit2004/2201921540030/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raiankit2004/2201921540030/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/raiankit2004/2201921540030/tree/master/2478-longest-nice-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/raiankit2004/2201921540030/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2551-apply-operations-to-an-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/raiankit2004/2201921540030/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3430-count-days-without-meetings](https://github.com/raiankit2004/2201921540030/tree/master/3430-count-days-without-meetings) |
 | [3778-transform-array-by-parity](https://github.com/raiankit2004/2201921540030/tree/master/3778-transform-array-by-parity) |
 ## Linked List
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/raiankit2004/2201921540030/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raiankit2004/2201921540030/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/raiankit2004/2201921540030/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/raiankit2004/2201921540030/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raiankit2004/2201921540030/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raiankit2004/2201921540030/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/raiankit2004/2201921540030/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/raiankit2004/2201921540030/tree/master/2690-house-robber-iv) |
