@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raiankit2004/2201921540030/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/raiankit2004/2201921540030/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raiankit2004/2201921540030/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raiankit2004/2201921540030/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raiankit2004/2201921540030/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/raiankit2004/2201921540030/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raiankit2004/2201921540030/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/raiankit2004/2201921540030/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raiankit2004/2201921540030/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/raiankit2004/2201921540030/tree/master/0541-reverse-string-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/raiankit2004/2201921540030/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raiankit2004/2201921540030/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/raiankit2004/2201921540030/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raiankit2004/2201921540030/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
