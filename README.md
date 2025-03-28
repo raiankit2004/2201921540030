@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/raiankit2004/2201921540030/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/raiankit2004/2201921540030/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raiankit2004/2201921540030/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/raiankit2004/2201921540030/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/raiankit2004/2201921540030/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/raiankit2004/2201921540030/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/raiankit2004/2201921540030/tree/master/3430-count-days-without-meetings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raiankit2004/2201921540030/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/raiankit2004/2201921540030/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/raiankit2004/2201921540030/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/raiankit2004/2201921540030/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3778-transform-array-by-parity](https://github.com/raiankit2004/2201921540030/tree/master/3778-transform-array-by-parity) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raiankit2004/2201921540030/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/raiankit2004/2201921540030/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/raiankit2004/2201921540030/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/raiankit2004/2201921540030/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Simulation
