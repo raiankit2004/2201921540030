@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raiankit2004/2201921540030/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
@@ -235,4 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raiankit2004/2201921540030/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
