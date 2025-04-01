@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/1524-string-matching-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/raiankit2004/2201921540030/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raiankit2004/2201921540030/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/raiankit2004/2201921540030/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/raiankit2004/2201921540030/tree/master/2478-longest-nice-subarray) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/raiankit2004/2201921540030/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raiankit2004/2201921540030/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raiankit2004/2201921540030/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/raiankit2004/2201921540030/tree/master/2262-solving-questions-with-brainpower) |
 ## Breadth-First Search
 |  |
 | ------- |
