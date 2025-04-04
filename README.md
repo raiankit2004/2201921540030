@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/raiankit2004/2201921540030/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raiankit2004/2201921540030/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raiankit2004/2201921540030/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
@@ -259,14 +261,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Stack
 |  |
 | ------- |
