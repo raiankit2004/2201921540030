@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/raiankit2004/2201921540030/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raiankit2004/2201921540030/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raiankit2004/2201921540030/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/raiankit2004/2201921540030/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/raiankit2004/2201921540030/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raiankit2004/2201921540030/tree/master/0283-move-zeroes) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/raiankit2004/2201921540030/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/raiankit2004/2201921540030/tree/master/0162-find-peak-element) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raiankit2004/2201921540030/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raiankit2004/2201921540030/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
