@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/raiankit2004/2201921540030/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/raiankit2004/2201921540030/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raiankit2004/2201921540030/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/raiankit2004/2201921540030/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/raiankit2004/2201921540030/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raiankit2004/2201921540030/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/raiankit2004/2201921540030/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
