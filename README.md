@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raiankit2004/2201921540030/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/raiankit2004/2201921540030/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/raiankit2004/2201921540030/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/raiankit2004/2201921540030/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/raiankit2004/2201921540030/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/raiankit2004/2201921540030/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/raiankit2004/2201921540030/tree/master/0075-sort-colors) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raiankit2004/2201921540030/tree/master/0054-spiral-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2551-apply-operations-to-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/raiankit2004/2201921540030/tree/master/3790-fruits-into-baskets-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raiankit2004/2201921540030/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/raiankit2004/2201921540030/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raiankit2004/2201921540030/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raiankit2004/2201921540030/tree/master/2588-maximum-number-of-points-from-grid-queries) |
