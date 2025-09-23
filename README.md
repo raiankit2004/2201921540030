@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/1524-string-matching-in-an-array) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/raiankit2004/2201921540030/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raiankit2004/2201921540030/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2528-number-of-valid-clock-times](https://github.com/raiankit2004/2201921540030/tree/master/2528-number-of-valid-clock-times) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/raiankit2004/2201921540030/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/raiankit2004/2201921540030/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2528-number-of-valid-clock-times](https://github.com/raiankit2004/2201921540030/tree/master/2528-number-of-valid-clock-times) |
 ## Monotonic Queue
 |  |
 | ------- |
