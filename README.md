@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raiankit2004/2201921540030/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/raiankit2004/2201921540030/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/raiankit2004/2201921540030/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raiankit2004/2201921540030/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raiankit2004/2201921540030/tree/master/0160-intersection-of-two-linked-lists) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/raiankit2004/2201921540030/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/raiankit2004/2201921540030/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/raiankit2004/2201921540030/tree/master/0368-largest-divisible-subset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raiankit2004/2201921540030/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raiankit2004/2201921540030/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/raiankit2004/2201921540030/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/raiankit2004/2201921540030/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/raiankit2004/2201921540030/tree/master/0165-compare-version-numbers) |
 | [0541-reverse-string-ii](https://github.com/raiankit2004/2201921540030/tree/master/0541-reverse-string-ii) |
