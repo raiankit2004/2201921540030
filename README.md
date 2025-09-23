@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raiankit2004/2201921540030/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/1524-string-matching-in-an-array) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/raiankit2004/2201921540030/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raiankit2004/2201921540030/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/raiankit2004/2201921540030/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/raiankit2004/2201921540030/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raiankit2004/2201921540030/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/raiankit2004/2201921540030/tree/master/1448-maximum-69-number) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/raiankit2004/2201921540030/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2681-put-marbles-in-bags](https://github.com/raiankit2004/2201921540030/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raiankit2004/2201921540030/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
