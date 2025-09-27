@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raiankit2004/2201921540030/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/raiankit2004/2201921540030/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/raiankit2004/2201921540030/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/raiankit2004/2201921540030/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/raiankit2004/2201921540030/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/raiankit2004/2201921540030/tree/master/0165-compare-version-numbers) |
