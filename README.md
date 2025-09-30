@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2478-longest-nice-subarray](https://github.com/raiankit2004/2201921540030/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/raiankit2004/2201921540030/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2551-apply-operations-to-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/raiankit2004/2201921540030/tree/master/0054-spiral-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2551-apply-operations-to-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/raiankit2004/2201921540030/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/raiankit2004/2201921540030/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raiankit2004/2201921540030/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/raiankit2004/2201921540030/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/raiankit2004/2201921540030/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raiankit2004/2201921540030/tree/master/3001-apply-operations-to-maximize-score) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
