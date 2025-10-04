@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/raiankit2004/2201921540030/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3778-transform-array-by-parity](https://github.com/raiankit2004/2201921540030/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/raiankit2004/2201921540030/tree/master/3790-fruits-into-baskets-ii) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/raiankit2004/2201921540030/tree/master/2551-apply-operations-to-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/raiankit2004/2201921540030/tree/master/3790-fruits-into-baskets-ii) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/raiankit2004/2201921540030/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raiankit2004/2201921540030/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Queue
 |  |
 | ------- |
