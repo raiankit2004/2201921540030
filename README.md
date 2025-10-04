@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/raiankit2004/2201921540030/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/1524-string-matching-in-an-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/raiankit2004/2201921540030/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/raiankit2004/2201921540030/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raiankit2004/2201921540030/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/raiankit2004/2201921540030/tree/master/0368-largest-divisible-subset) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/raiankit2004/2201921540030/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raiankit2004/2201921540030/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raiankit2004/2201921540030/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/raiankit2004/2201921540030/tree/master/2681-put-marbles-in-bags) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/raiankit2004/2201921540030/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/raiankit2004/2201921540030/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/raiankit2004/2201921540030/tree/master/1642-water-bottles) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/raiankit2004/2201921540030/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/raiankit2004/2201921540030/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/raiankit2004/2201921540030/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raiankit2004/2201921540030/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/raiankit2004/2201921540030/tree/master/1448-maximum-69-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/raiankit2004/2201921540030/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/raiankit2004/2201921540030/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2681-put-marbles-in-bags](https://github.com/raiankit2004/2201921540030/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raiankit2004/2201921540030/tree/master/3001-apply-operations-to-maximize-score) |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/raiankit2004/2201921540030/tree/master/3790-fruits-into-baskets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/raiankit2004/2201921540030/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
