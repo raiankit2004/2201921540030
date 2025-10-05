@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/raiankit2004/2201921540030/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/raiankit2004/2201921540030/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/raiankit2004/2201921540030/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/raiankit2004/2201921540030/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/raiankit2004/2201921540030/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/raiankit2004/2201921540030/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/raiankit2004/2201921540030/tree/master/0389-find-the-difference) |
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raiankit2004/2201921540030/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/raiankit2004/2201921540030/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/raiankit2004/2201921540030/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/raiankit2004/2201921540030/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/raiankit2004/2201921540030/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/raiankit2004/2201921540030/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raiankit2004/2201921540030/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/raiankit2004/2201921540030/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/raiankit2004/2201921540030/tree/master/2478-longest-nice-subarray) |
