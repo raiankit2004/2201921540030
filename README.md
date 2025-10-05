@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/raiankit2004/2201921540030/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/raiankit2004/2201921540030/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/raiankit2004/2201921540030/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/raiankit2004/2201921540030/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Backtracking
 |  |
 | ------- |
