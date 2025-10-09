@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/raiankit2004/2201921540030/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/raiankit2004/2201921540030/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raiankit2004/2201921540030/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/raiankit2004/2201921540030/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/raiankit2004/2201921540030/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/raiankit2004/2201921540030/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/raiankit2004/2201921540030/tree/master/0387-first-unique-character-in-a-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raiankit2004/2201921540030/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/raiankit2004/2201921540030/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/raiankit2004/2201921540030/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/raiankit2004/2201921540030/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raiankit2004/2201921540030/tree/master/0055-jump-game) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/raiankit2004/2201921540030/tree/master/0032-longest-valid-parentheses) |
 | [3001-apply-operations-to-maximize-score](https://github.com/raiankit2004/2201921540030/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
