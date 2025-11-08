@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raiankit2004/2201921540030/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/raiankit2004/2201921540030/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raiankit2004/2201921540030/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
@@ -387,12 +388,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raiankit2004/2201921540030/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/raiankit2004/2201921540030/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/raiankit2004/2201921540030/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raiankit2004/2201921540030/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/raiankit2004/2201921540030/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raiankit2004/2201921540030/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/raiankit2004/2201921540030/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/raiankit2004/2201921540030/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Stack
 |  |
