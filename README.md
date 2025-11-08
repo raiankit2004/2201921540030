@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/raiankit2004/2201921540030/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/raiankit2004/2201921540030/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/raiankit2004/2201921540030/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/raiankit2004/2201921540030/tree/master/0222-count-complete-tree-nodes) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/raiankit2004/2201921540030/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/raiankit2004/2201921540030/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/raiankit2004/2201921540030/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/raiankit2004/2201921540030/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/raiankit2004/2201921540030/tree/master/2308-divide-array-into-equal-pairs) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raiankit2004/2201921540030/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/raiankit2004/2201921540030/tree/master/0222-count-complete-tree-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/raiankit2004/2201921540030/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/raiankit2004/2201921540030/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/raiankit2004/2201921540030/tree/master/0222-count-complete-tree-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/raiankit2004/2201921540030/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Stack
 |  |
