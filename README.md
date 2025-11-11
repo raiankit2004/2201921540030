@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/raiankit2004/2201921540030/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/raiankit2004/2201921540030/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raiankit2004/2201921540030/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/raiankit2004/2201921540030/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raiankit2004/2201921540030/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/raiankit2004/2201921540030/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/raiankit2004/2201921540030/tree/master/0165-compare-version-numbers) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raiankit2004/2201921540030/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/raiankit2004/2201921540030/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raiankit2004/2201921540030/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/raiankit2004/2201921540030/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/raiankit2004/2201921540030/tree/master/0053-maximum-subarray) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/raiankit2004/2201921540030/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/raiankit2004/2201921540030/tree/master/0022-generate-parentheses) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
