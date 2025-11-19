@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/raiankit2004/2201921540030/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/raiankit2004/2201921540030/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/raiankit2004/2201921540030/tree/master/0416-partition-equal-subset-sum) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/raiankit2004/2201921540030/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/raiankit2004/2201921540030/tree/master/0830-largest-triangle-area) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/raiankit2004/2201921540030/tree/master/1293-three-consecutive-odds) |
