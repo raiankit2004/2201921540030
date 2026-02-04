@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/raiankit2004/2201921540030/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/raiankit2004/2201921540030/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/raiankit2004/2201921540030/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3794-reverse-string-prefix](https://github.com/raiankit2004/2201921540030/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/raiankit2004/2201921540030/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/raiankit2004/2201921540030/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raiankit2004/2201921540030/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/raiankit2004/2201921540030/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
