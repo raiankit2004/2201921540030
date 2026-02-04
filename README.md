@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/raiankit2004/2201921540030/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/raiankit2004/2201921540030/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/raiankit2004/2201921540030/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/raiankit2004/2201921540030/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/raiankit2004/2201921540030/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/raiankit2004/2201921540030/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/raiankit2004/2201921540030/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/raiankit2004/2201921540030/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2262-solving-questions-with-brainpower](https://github.com/raiankit2004/2201921540030/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/raiankit2004/2201921540030/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3640-trionic-array-ii](https://github.com/raiankit2004/2201921540030/tree/master/3640-trionic-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
