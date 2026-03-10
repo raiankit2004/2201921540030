@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raiankit2004/2201921540030/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raiankit2004/2201921540030/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raiankit2004/2201921540030/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/raiankit2004/2201921540030/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/raiankit2004/2201921540030/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raiankit2004/2201921540030/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/raiankit2004/2201921540030/tree/master/0389-find-the-difference) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/raiankit2004/2201921540030/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/raiankit2004/2201921540030/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/raiankit2004/2201921540030/tree/master/0168-excel-sheet-column-title) |
+| [0290-word-pattern](https://github.com/raiankit2004/2201921540030/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/raiankit2004/2201921540030/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raiankit2004/2201921540030/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/raiankit2004/2201921540030/tree/master/0389-find-the-difference) |
