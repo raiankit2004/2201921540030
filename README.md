@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/raiankit2004/2201921540030/tree/master/1019-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/raiankit2004/2201921540030/tree/master/1332-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/raiankit2004/2201921540030/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raiankit2004/2201921540030/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/raiankit2004/2201921540030/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/raiankit2004/2201921540030/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/raiankit2004/2201921540030/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1332-remove-palindromic-subsequences](https://github.com/raiankit2004/2201921540030/tree/master/1332-remove-palindromic-subsequences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/raiankit2004/2201921540030/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/raiankit2004/2201921540030/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/1524-string-matching-in-an-array) |
