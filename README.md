@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/raiankit2004/2201921540030/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/raiankit2004/2201921540030/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/raiankit2004/2201921540030/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/raiankit2004/2201921540030/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/raiankit2004/2201921540030/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/raiankit2004/2201921540030/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/raiankit2004/2201921540030/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
