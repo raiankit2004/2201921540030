@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/raiankit2004/2201921540030/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raiankit2004/2201921540030/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/raiankit2004/2201921540030/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/raiankit2004/2201921540030/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/raiankit2004/2201921540030/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/raiankit2004/2201921540030/tree/master/0768-partition-labels) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/raiankit2004/2201921540030/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
